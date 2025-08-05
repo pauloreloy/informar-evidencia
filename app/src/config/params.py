@@ -3,7 +3,7 @@ AWS_ACCESS_KEY_ID           = None
 AWS_ACCESS_SECRET_KEY       = None
 AWS_ENDPOINT                = "localhost:4566"
 
-LAMBDA_LOG_GROUP            = "JP3-RETENCAO"
+LAMBDA_LOG_GROUP            = "CONTROLE"
 LAMBDA_NAME                 = "lbd-atualizar-controle-retencao"
 
 TABELA_CONTROLE             = "tbl_controle"
