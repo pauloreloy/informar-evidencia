@@ -1,0 +1,11 @@
+{
+  "type": "record",
+  "name": "data",
+  "namespace": "registro-evidencias.br.dev.pre",
+  "fields": [
+    {
+      "name": "codigo_identificacao_repositorio",
+      "type": "string"
+    }
+  ]
+}
